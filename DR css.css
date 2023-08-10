@@ -1,0 +1,77 @@
+.zera-labels {
+		display: inline-block;
+        float: left;
+        text-align: left;
+        color: grey;
+        font-family: calibri;
+        font-size: 18px
+        font-weight: 700;
+    }
+    #bold {
+	font-weight: bold;
+	font-family: calibri;
+    font-size: 18px
+	}
+    .zera-details {
+        float: right;
+        text-align: right;
+        font-family: calibri;
+        font-size: 18px;
+        color: white
+    }
+    #zera-background {
+        background-image: url('https://cdn.discordapp.com/attachments/628411192167366695/1128940884336050257/Profile_Background.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+    img {
+        border-radius: 15px;
+        display: block;
+        margin: auto;
+    }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #top {
+        background-color: black;
+        width: 500px;
+        align-items: center;
+        padding: 0px;
+        border-style: outset;
+        border-color: red;
+    }
+    #zera {
+        color: red;
+        font-family:trebuchet; 
+        letter-spacing:10px; 
+        font-size:36px; 
+        text-align: center;
+        font-weight: bold;
+        margin: none;
+    }
+    #zera-title {
+        font-family:trebuchet; 
+        letter-spacing:0px; 
+        font-size:24px; 
+        text-align:center;
+        color: grey;
+        margin: none;
+		font-weight: bold;
+    }
+	.zera-info {
+		margin: auto;
+		display: flex;
+		justify-content: space-between;
+		background-color: black;
+		width: 400px;
+		height: 15px;
+		align-items: center;
+		border-style: outset;
+		border-top: none;
+		border-color: red;
+		padding: 5px;
+        border-width: 2px;
+	}
